@@ -1,0 +1,246 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Love the pretious oyntment, that flowes downe from the head Christ Jesus, to all his members, and makes them dwell together in unity</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49280</idno>
+            <idno type="STC">Wing L3222</idno>
+            <idno type="STC">ESTC R3849</idno>
+            <idno type="EEBO-CITATION">12966904</idno>
+            <idno type="OCLC">ocm 12966904</idno>
+            <idno type="VID">96121</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49280)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96121)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 389:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Love the pretious oyntment, that flowes downe from the head Christ Jesus, to all his members, and makes them dwell together in unity</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Wright ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Criticism, interpretation, etc.</term>
+               <term>Love --  Religious aspects --  Biblical teaching.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:96121:1" rendition="simple:additions"/> 
+               <hi>LOVE THE PRETIOVS OYNTMENT, That flowes downe from the head</hi> CHRIST JES<g ref="char:V">Ʋ</g>S, <hi>to all his Members, and makes them dwell together in Unity.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Joh.</hi> 13. 34, 35.</bibl>
+               <p>A New Commandment I give unto you, That ye Love one another, as I have loved you, that ye love one another: By this ſhall all men know that ye are my Diſciples, if ye have love one to another.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Acts</hi> 4. 32.</bibl>
+               <p>The multitude of them that beleeved, were of one heart, and of one ſoule.</p>
+            </q>
+            <q>
+               <bibl>1 <hi>Cor.</hi> 13. 4, 5.</bibl>
+               <p>Charity ſuffereth long, and is kind, is not eaſily provoked, thinketh none evill.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Eph.</hi> 4. 1, 2, 3.</bibl>
+               <p>Walke worthy of the vocation where<g ref="char:EOLhyphen"/>with ye are called.</p>
+               <p>With all Lowlineſs, and meekneſs, with long ſuffering, for bearing one another in Love.</p>
+               <p>Endeavoring to keepe the Unity of the Spirit in the bond of Peace.</p>
+            </q>
+            <p>LONDON, <hi>Printed for</hi> John Wright <hi>at the Kings Head in the</hi> Old-bailey. 1654.</p>
+            <pb facs="tcp:96121:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb n="1" facs="tcp:96121:2"/>
+            <head>The Balme of Love, to heale di<g ref="char:EOLhyphen"/>viſions, and the wounds made by them, and to make the Body of Chriſt whole and entire for its owne beauty, ſtrength, and ſafety.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Spouſe of Chriſt Jeſus, when ſhe ſhines in Love, ſhe is amiable in Beauty, precious in the eye of her Husband, powerfull with God her Father, proſperous in her owne ſpirituall health and vigour, and prepared for her con<g ref="char:EOLhyphen"/>ſummate marriage in celeſtiall glory. Her husband is God, and God is <hi>love,</hi> and God cannot but love that <hi>love</hi> which is like himſelfe. And that he may love his Spouſe for her love, when ſhe becomes one Spirit with him, by this unity of Spirit he gives her an uniformity of <hi>love;</hi> the oyntment of Chriſt Jeſus, the Head, floweth downe into all his members, and breatheth love into them; and as farre as his life goes, ſo farre goeth his love: therefore no love, no life in Chriſt Jeſus. Agreeably, the beloved Diſciple, and an eſpeciall Teacher of love, having ſhewed that the New-birth brings love with life, he fitly addeth,
+<hi>He that loveth not, abideth in death.</hi> No won<g ref="char:EOLhyphen"/>der
+<note place="margin">1 Joh. 3. 14 Joh. 13. 34</note> then, if the great Maſter and Lover of this Di<g ref="char:EOLhyphen"/>ſciple, make love the mark of his true Diſciples, <pb n="2" facs="tcp:96121:3"/> ſeeing thoſe are only Chriſts true Diſciples which ſo learne Chriſt, as they draw that ſpirit from him, which teacheth them love, and breatheth it into them.</p>
+            <p>And ſurely if a ſonne of God, by that ſpirituall eye which he receiveth from Chriſt Jeſus with his Son<g ref="char:EOLhyphen"/>ſhip, doe clearly behold another ſonne of the ſame father, how can he chuſe but love him as a brother? he cannot chuſe but love him for the unity that is betweene them; for they are one ſpirit, by being
+<note place="margin">John 17. 21. 1 Cor. 12. 13. Eph. 5.</note> begotten of one Spirit in Chriſt Jeſus: and as none hateth his owne fleſh, but cheriſheth and loveth it, ſo none ſhould hate his owne ſpirit, but cheriſh and love it. Secondly, he ſhould love his brother for unifor<g ref="char:EOLhyphen"/>mity as well as for unity there is a ſpirituall likeneſſe and conformity between ſpirituall brethren; and commonly likeneſſe breedeth love: they are both created unto one image, and how can a ſonne of God but love his owne likeneſſe which he ſeeth in his brother? As in a glaſſe face anſwereth to face, ſo a Saints ſoule anſwereth to the ſoule of a Saint; and when one ſees his owne ſhape in the other, from this likeneſſe and harmony there muſt needs ariſe ſpiri<g ref="char:EOLhyphen"/>tuall love and amity. Thirdly, if a Saint conſider the excellency of a Saint, how can he chuſe but love him for his excellency? God is the chiefeſt and higheſt excellence, and he that moſt reſembleth God, is therefore moſt excellent; Now among viſible crea<g ref="char:EOLhyphen"/>tures, there is none that reſembleth God more then a Saint, for he is a ſonne of God, begotten to the true
+<note place="margin">Col. 3. 10. 1 Joh. 5. 1.</note> image of God his Father; therefore he that loves God that begat, loves alſo the Sons whom God hath begotten, and the man according to Gods own heart becauſe his goodneſſe (the fruit of love) extends
+<note place="margin">Pſ. 16.2, 3.</note> not unto God, therefore he communicates it to the Saints and Sons of God that excell in vertue; as if that were the next degree to doing good unto God <pb n="3" facs="tcp:96121:3"/> himſelfe, to love, cheriſh, and doe good to his ſons and Saints: And indeed, what is a fitter object of love, next to the chiefe and ſoveraigne good, then a Saint, who by a derivative goodneſſe moſt repreſent<g ref="char:EOLhyphen"/>eth him? God is light, and a Saint is light in the
+<note place="margin">Eph. 5. 8</note> Lord; God is goodneſſe and righteouſneſſe, and a Saint is created according to God in righteouſneſſe
+<note place="margin">Eph. 4. 24</note> and true holmeſſe. The heart of a Saint is according to Gods heart; yea, he is partaker of a Divine
+<note place="margin">1 Sam. 13. 14. 2 Pet. 1. 4 2 Cor. 3. 18. Gal. 5.
+22. Eph. 5. 9</note> nature and groweth in it from glory to glory. And as this Divine nature is glorious and lovely, ſo are the fruits of it attractively amiable, <hi>Love, joy, peace, long<g ref="char:EOLhyphen"/>ſuffering, goodneſſe, faith, meekneſſe, temperance;</hi> yea, <hi>all goodneſſe, righteouſneſſe, and truth.</hi>
+            </p>
+            <p>The beauty of the body is by no meanes compara<g ref="char:EOLhyphen"/>ble with the beauty of the ſoule, for the beauty of the ſoule is the Image of God; and the glory of this Image having in it divine light, vertue, and good<g ref="char:EOLhyphen"/>neſſe, ſhines in the ſoule with a farre higher excel<g ref="char:EOLhyphen"/>lence, then colour and complexion laid on the clay and earth of a fading and corruptible body: and ac<g ref="char:EOLhyphen"/>cording to this excellence the beauty of the ſoule is preſerved to immortality, when the beauty of the body is ſuffered either to vaniſh before the body, or to lye with it in the duſt, and there to dye a kinde of ſecond death; neither ſhall it ever recover life again, but by a conjunction with the beauty of the ſoule: If corporall beauty have been joyned with ſpirituall beauty, then ſhall it riſe in a farre more excellent beauty; but if it had not with it ſpirituall beauty, (purity, and goodneſſe, and faireneſſe of ſoule) it ſhall not ariſe in glory and beauty, it ſhall not ſee the face of God, but it ſhall be ſent away with ugly ſpirits, being it ſelfe transformed into the deformed character of a countenance weeping, and wailing, and gnaſhing of teeth</p>
+            <p>If then a Saint be ſo lovely, and the love of a Saint
+<pb n="4" facs="tcp:96121:4"/> is ſo juſt and reaſonable, and God doth love this Love, and doth give his Saints the Spirit of love of purpoſe to love one another, and ſo this love is the marke of a Saint, a Sonne, and a Chriſtian; let e<g ref="char:EOLhyphen"/>very Saint make himſelfe ſure of this love, and not onely of the ſhew and word of it, but of the eſſence and life of it. Let him love a Saint whom God loves; and love him becauſe God loves this
+<hi>love</hi> of a Saint. Let him love a Saint as he loves his own ſafety, which is annexed to the love of the Saints: Let him love a Saint, becauſe a Saint loves God: Let him love a Saint, becauſe he is like himſelf, and becauſe the Saint loves him. <hi>Dilige Deum tuum, dilige in Deo tuo, charum</hi>
+               <note place="margin">
+                  <hi>Claud. Mam. de ſtatu animae Lib.</hi>
+1.</note> 
+               <hi>tuum, Imaginem Dei tui: Ille te perinde, diligendo Deum, in Deo diligat: Love thy God, and in God love thy brother the image of God; and let thy brother, in requitall, by loving God, love thee alſo in God.</hi>
+            </p>
+            <p>True Chriſtian love will not be ſolitary, and fruit<g ref="char:EOLhyphen"/>leſſe; but it muſt bring forth peace, and be attended by it. Love is it ſelfe the fruit of the ſpirit, and peace is the fruit of this love; yea, love which de<g ref="char:EOLhyphen"/>lights
+<note place="margin">Col. 3. 14. 15.</note> to be fruitfull, loves this peace, becauſe by her ſhee communicates her other fruitfulneſſe. It is beſt ſowing in a calme; and, if we will beleeve St <hi>James,</hi>
+               <note place="margin">Jam. 3. 18.</note> the fruit of righteouſneſſe is beſt ſowne in peace: So Peace (the eldeſt daughter of Love) is a midwife to her mother, and delivers her of the reſt of her chil<g ref="char:EOLhyphen"/>dren; and without her help the mother doth no<g ref="char:EOLhyphen"/>thing b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t make abortions Therefore, as thou w<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ul<g ref="char:EOLhyphen"/>deſt have thy love to be fruitfull<g ref="char:punc">▪</g> and by her fruits profitable to the Saints; ſo be thou ſure to have her attended by peace, that through peace with the Saints, thy love may profitably extend it ſelfe to the Saints. The unity of the ſpirit muſt be kept in the bond of peace: and indeed, with whom wilt thou keepe peace, if thou wilt not keepe it with thoſe who are one ſpirit with thee? By one ſpirit are we all
+<note place="margin">Cor. 12. 12, 13.</note> 
+               <pb n="5" facs="tcp:96121:4"/> baptized into one body, and we be members one of another by our unity in this one body. How come<g ref="char:EOLhyphen"/>ly, yea, how neceſſary is it to the preſervation and proſperity of the body, that the members of one body be at peace and unity? and how monſtrous and deſtructive is it, when one member fights with ano<g ref="char:EOLhyphen"/>ther? That fatall ſentence cannot be avoyded; <hi>If</hi>
+               <note place="margin">Gal. 5. 15.</note> 
+               <hi>yee bite one another, yee ſhall be conſumed one of another.</hi> But contrarily, the Kingdome of God which is peace, flouriſheth by the peace of the ſubjects of that King<g ref="char:EOLhyphen"/>dome; and therefore St. <hi>Paul</hi> having taught the for<g ref="char:EOLhyphen"/>mer
+<note place="margin">Rom. 14. 17, 18.</note> to the Romans, adjoyneth the latter, and that with a vehemencie; for he injoynes them, not bare<g ref="char:EOLhyphen"/>ly to follow, but as it were to perſecute (even with a ſwift and eager proſecution to run after) the things of peace; yea, he adjures the
+<hi>Philippians</hi> by all con<g ref="char:EOLhyphen"/>lation
+<note place="margin">Phil. 2.</note> in Chriſt, and by the fellowſhip of the Spi<g ref="char:EOLhyphen"/>rit, and by the bowels of mercy, that they be of one accord. Finally, the Sonne of God, our Saviour (of whom <hi>Melchiſedech</hi> was a type) is the King of peace,
+<note place="margin">Heb. 7.2.</note> as well as the King of righteouſneſſe; and his ſub<g ref="char:EOLhyphen"/>jects, who will partake of his righteouſneſſe, muſt alſo partake of his peace. Chriſt hath made peace betweene God and us, even peace between Heaven and Earth; not that men being at peace above with God, ſhould have diſcord below among themſelves; but the peace which is begun in Heaven, muſt come downe and dwell among his members on Earth; we muſt be one as he and his Father are
+<note place="margin">Joh 17.21</note> one: the peace which we receive from God by Chriſt, we muſt impart each to other; yea, it muſt
+<note place="margin">Col 3.15.</note> rule in our hearts, being called to it in one body. Accordingly as we expect peace from God through Chriſt, ſo let us heare and obey Chriſt commanding peace amongſt our ſelves: <hi>Have peace one with another,</hi> and then let us not doubt, but if the Peace of God
+<note place="margin">Mar. 9. 50.</note> be among us, the God of peace is alſo with us. <hi>Deus</hi> 
+               <pb n="6" facs="tcp:96121:5"/> 
+               <hi>ſemper in pace eſt;</hi> Where ſpirituall and true peace is,
+<note place="margin">
+                  <hi>Chryſol. Ser.</hi> 54.</note> there ever God is.</p>
+            <p>The two excellent and powerfull Graces, <hi>Love</hi> and
+<hi>Peace,</hi> may not be bounded by us, but by God him<g ref="char:EOLhyphen"/>ſelfe, the Author and Commander of it; Him muſt we follow in the inlarging or ſtraitning of it, and not goe from his leading to the right hand, or to the left: where God commands love and peace we may
+<note place="margin">Act 10. 15</note> not forbid them; neither whom God by ſanctify<g ref="char:EOLhyphen"/>ing hath made fit for our peace, muſt we accompt common or uncleane, and fit for ſeparation Now
+<note place="margin">Coloſ. 1 4. Eph. 4. 3. 15.</note> the extent and bound which God appoints for our love and peace is no leſſe then all the Saints, even the whole Body of Chriſt; the bond of peace is not one
+<note place="margin">1 Joh. 5. 1. 2 Tim. 2.22</note> jot ſhorter then the unity of the ſpirit. If then God have not diſdained to beſtow on any man his ſancti<g ref="char:EOLhyphen"/>fying Spirit, let not man ſcorne on ſuch a one to beſtow his love and peace; for he that denyeth his love and peace to that man in whom is the Spirit, he denyeth his love and peace to the ſpirit which is in that man<hi>:</hi> Therefore if God have gone before with his ſaving grace and ſanctifying ſpirit, let us not doubt to follow God with our love and
+<note place="margin">
+                  <hi>Docere vo<g ref="char:EOLhyphen"/>luit quod haec tria ſibi invicem connexa ſint, &amp; cohaerent Deus, Chri<g ref="char:EOLhyphen"/>ſtus, &amp; Ec<g ref="char:EOLhyphen"/>cleſia, ſeu univerſitas credentium, adeo ut qui unum ex his vel diligat vel odiat, omnia dili<g ref="char:EOLhyphen"/>gat aut odi<g ref="char:EOLhyphen"/>at.</hi> Ferus 1 Joh. 5.</note> peace. Now we know that God (according to his promiſe to <hi>Abraham)</hi> hath an holy ſeed out of all Nations, which is the Catholicke and Univerſall Church: if then the Church be Catholicke and Univerſall, let our love and peace be alſo Catholick and Univerſall. And to this end our affections muſt be enlarged, and made capable of the whole world; for he that will love a Catholicke Church with a Catholicke love, muſt not have a narrow love con<g ref="char:EOLhyphen"/>tracted and confined to the meaſure of one City, Kingdome, or nation; but extended and enlarged to the meaſure of all Cities, Kingdomes, and Nati<g ref="char:EOLhyphen"/>ons, even of the whole world. If that which is to be loved be univerſall, the affection which loveth muſt
+<pb n="7" facs="tcp:96121:5"/> not be partiall: For if the love be but to a part, when it ſhould be to the whole, this is not that Catholick love which belongs to the
+<hi>Catholicke Church;</hi> and what<g ref="char:EOLhyphen"/>ſoever title ſuch men may take to themſelves, they are not true, but counterfeit Catholicks; for they have not that Catholick ſpirit of love which is in the true Catholick Church, and by which the Ca<g ref="char:EOLhyphen"/>tholick Church doth love it ſelfe with a Catholicke love. But ſuch men by likelihood have a private ſpi<g ref="char:EOLhyphen"/>rit, by which they love a private part and faction, and are ſhort of that univerſall ſpirit which loveth the univerſall Church with an univerſall love: for there is a private ſpirit of love as well as of faith; and it is that kinde of ſpirit which Saint <hi>James</hi> mentio<g ref="char:EOLhyphen"/>neth,
+<note place="margin">Jam. 4. 5. &amp; 3. 14, 15</note> a ſpirit that luſteth after envie, after Sects and diviſions. But let us never reſt untill we get that Catholicke ſpirit by which we may embrace the Catholick Church with a Catholick love; and then we may be aſſured we are not titular, but true and reall Catholicks. <hi>Hereby we know that we are of the truth</hi> (ſaith Saint <hi>John)</hi> and we ſhall aſſure our hearts be<g ref="char:EOLhyphen"/>fore
+<note place="margin">1 Joh. 3.19</note> God: And, <hi>We know that we have paſſed from dea<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h to life, becauſe we love the brethren;</hi> even the brethren
+<label type="milestone">
+                  <seg type="milestoneunit">Ver. </seg>14</label> without exception and reſervation: and he that dwelleth in this generall and un eſerved love, God,
+<note place="margin">1 Joh. 4.12</note> who is love, dwelleth in him, and he in God; <hi>And we know that we dwell in him and he in us, becauſe he hath</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Ver. </seg>13</label> 
+               <hi>given us his ſpirit,</hi> even the ſpirit of this Catholicke and Univerſall love. Let no man therefore ſay of another, He is of ſuch a Nation with which my Na<g ref="char:EOLhyphen"/>tion is at enmity; or of ſuch a Church which pro<g ref="char:EOLhyphen"/>feſſeth ſome differences with the Church in which I live, and therefore I will by no meanes have love and peace with him; but remember, that <hi>in every</hi>
+               <note place="margin">Act. 10. 35</note> 
+               <hi>Nation, he that feareth God and worketh righteouſneſſe is ac<g ref="char:EOLhyphen"/>cepted of God:</hi> and therefore doe thou enquire, whe<g ref="char:EOLhyphen"/>ther this ſpirit of feare and holineſſe be in him,
+<pb n="8" facs="tcp:96121:6"/> which thoſe that have are accepted of God: if he be accepted of God, take heed he be not rejected of thee: It were a madneſſe in thee for Gods ſake to hate one whom God loves, and for Chriſts ſake to to hate a member of Chriſt. Indeed, if he be of a Church infected with errours, thou muſt be wary of him, that he infect thee not with thoſe errours; but be alſo wary of not hating the Spirit of Chriſt in a member of Chriſt: It is an Apoſtolicall, and ſo an undeniable Inference, If ye have put on the
+<note place="margin">Col. 3, 10.</note> New-man, in which is neither Greeke nor Jew, Cir<g ref="char:EOLhyphen"/>cumciſion nor Uncircumciſion, Barbarian, Scythi<g ref="char:EOLhyphen"/>an, bond nor free, but Chriſt is all in all; <hi>Put on therefore</hi> (there is a binding force in this <hi>therefore) as the elect of God, holy and beloved, bowels of mercy, kindneſſe, &amp;c. And above all theſe things, put an charity, which is the bond of perfectneſſe; and let the peace of God rule in your hearts, to which ye are called in one body.</hi>
+            </p>
+            <p>Let us then have love and peace with a beleeving Muſcovite, Grecian, Aethiopian, Indian, if he be of that one body wherein Chriſt is all in all, and by the unity whereof we are called to love and peace; yea, from this univerſall peace and love may not be excluded any remnant according to the election of grace, pertaining to the body of Chriſt, though ſo-journing in the tents and territories of <hi>Rome:</hi> we may not hate the ſeven thouſand that doe not bow their knees to Baal, though diſperſed among ſeven millions of Idolaters; we may not hate Iſrael, though in bondage under <hi>Pharaoh.</hi> But to the true Iſrael, e<g ref="char:EOLhyphen"/>ven to the pure in heart, and thoſe who in Chriſt Je<g ref="char:EOLhyphen"/>ſus are new creatures, and walk according to this rule, peace, and the prayers of peace, the true fruits of
+<note place="margin">Gal. 6. 15, 16.</note> love doe belong, the divine Apoſtle being herein our guide and example. And while thus we enjoy and
+<note place="margin">Eph. 4. 16 1 Joh. 3. 14 &amp; 4. 7.</note> imbrace this univerſall love with the univerſall bo<g ref="char:EOLhyphen"/>dy of Chriſt, great is our ſafety; for hereby we know <pb n="9" facs="tcp:96121:6"/> and may aſſure our hearts, that we belong to that univerſall body, which alone loveth it ſelfe with this univerall love. That is the truly Catholicke Church, which is indued with this Catholick love; that is a living Church, which is a loving Church: We therefore imbracing and exerciſing this Catho<g ref="char:EOLhyphen"/>licke love, are of the Church truly Catholick; even of that Church, which being a Church of love, is alſo a Church of life.</p>
+            <p>But it is never enough to be lamented, That when Chriſt hath made Love the very Character and Badge of his Diſciples, thoſe that would be called Chriſtians, that is, the Diſciples of Chriſt, are farre from that wherein this Diſcipleſhip doth eſpecially conſiſt. One Apoſtle having named ſome chiefe Graces and Vertues, ſaith; <hi>but the greateſt of theſe is love.</hi> And in another place, <hi>Above all theſe things put on love, which is the bond of perfectneſſe.</hi> And another Apo<g ref="char:EOLhyphen"/>ſtle,
+<hi>Above all things have fervent love among your ſelves.</hi> But how comes it to paſſe then, that when Chriſt and his Apoſtles ſet up love above all things, we ſee ſo many things ſet up above love, yea, we ſee love de<g ref="char:EOLhyphen"/>ſtroyed for little things, which is better than all things? Yea, when love by uniting would mutu<g ref="char:EOLhyphen"/>elly preſerve the Saints, they by hatred and con<g ref="char:EOLhyphen"/>tention will deſtroy both love and themſelves; yet the ſame evill ſpirit that moves to this deſtroying by hatred and diviſion, preſerves his owne King<g ref="char:EOLhyphen"/>dome by unity And though his depraved nature be contrary to true love, yet his craft ſo farre over-rules, or at leaſt guides his malice, that he holds unity for our ruine, and his owne preſervation. But Chriſtians, whoſe Divine Nature is eſpecially made up of love, run haſtily and headily into hatred and diziſion; and thus doe they goe contrary to the Divine Nature, <hi>wherein is the vertue
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f the Dove, and the wiſedome (commanded) in the Serpent.</hi> But doe not thoſe
+<pb n="10" facs="tcp:96121:7"/> talke of Chriſtianity, and thus walke contrary to it, meerely turne Chriſtianity into talking, and make themſelves but tinkling Cymballs?</p>
+            <p>Let true Chriſtians ſeriouſly conſider, that union in Chriſt their head is a ſtronger root of love and unity than leſſer differences can be of diviſion. It was the great Plot of Chriſt by the expence of his moſt precious Blood, to recapitulate and bring into unity under one Head thoſe that lay ſcattered under ſundry differences; and is it not then to counter<g ref="char:EOLhyphen"/>worke againſt Chriſts great Plot and Myſtery of Godlineſſe, by ſmall differences to divide thoſe whom he hath by ſo deare a purchaſe knit together, yet (which is a high degree of this miſchiefe) men pretend for Chriſtianity to hate and deſtroy Chriſti<g ref="char:EOLhyphen"/>ans, but is it not the ſame which in others hath bin truly called Antichriſtian; for both this and that per<g ref="char:EOLhyphen"/>ſecutes Chriſt in his members, oppoſeth Chriſt in his Doctrine, and in his maine worke of diſpenſati<g ref="char:EOLhyphen"/>on; let ſuch heare <hi>Paul</hi> ſpeaking: <hi>Where there are diviſi<g ref="char:EOLhyphen"/>ons among you, are ye not carnall, and walke as men?</hi> And in<g ref="char:EOLhyphen"/>deed, is it not carnall to hate a member of Chriſt for that difference which he may have, and yet be a member of Chriſt? Is not he more to be loved for being a member of Chriſt then to be hated for that difference? yea if Chriſt doe love and forgive him, how dar'ſt thou to hate him whom Chriſt loves? Haſt thou ſeen any warrant in Scripture to give thee authority to hate a member of Chriſt who agrees with Chriſt by faith and love, but agrees not with thee in all thy opinions? The Scripture ſaith, <hi>We know but in part;</hi> and if ſo, thou muſt give every Saint theſe graines of allowance which the Apoſtle gives him. It may be the knowledge of that point where<g ref="char:EOLhyphen"/>in he differs from thee is not within his part, and thou wilt have him know beyond his part, or elſe thou wilt fall out with him; Is not this to fall out <pb n="11" facs="tcp:96121:7"/> with a Saint for impoſsibilities; and which is more, is it not to fight againſt God in his diſpenſations? God is not pleaſed to put this knowledge within his part, and therefore thou fall'ſt out with him; and is not thy quarrell againſt God alſo, becauſe God hath not revealed it unto him? yea, as confident as thou art, it may be that opinion for which thou fall'ſt out with him is not in thy part, but that which he holds is within his part; and then what a double madneſſe is it to hate thy brother, for not maintaining that opinion which thou holdeſt, but knoweſt not to be a truth, and for that truth which thy brother knowes, and therefore maintaines? But if of ignorance he erre in thoſe things that are out of his part, beare with him as thou wouldeſt be born with, yea loved, notwithſtanding that errour, for <hi>this is the Law and the Prophets.</hi> It is not to be believed, that any Saint willingly would maintaine a knowne errour, and if he hold it of weakneſſe, receive him that is weake, and not for contentions and dividing diſputations; beare with him in that which is beyond his part, and he ſhall beare with thee in that which is beyond thy part, for there is a great number of truths which ſome Saints know, and others do not: yea many which none attaine unto We have plaine places of Scripture wherein love to all Saints is commended and commanded but none wherein hatred of Saints for leſſer meaſures of knowledge is injoyned or ap<g ref="char:EOLhyphen"/>proved.</p>
+            <p>Againe, the Body of Chriſt doth edifie it ſelfe in love, therefore no love, no edification. But on the contrary, as love edifies, ſo hatred pulls downe, and teares the building into pieces. Now what ſaies the Scripture? <hi>Who ſo deſtroyes the Temple of God, hin ſhall God deſtroy.</hi> A fearefull worke paid with fearefull wages, Temple deſtruction followed with deſtruction of Temple deſtroyers. Neither is this wholly deferred <pb n="12" facs="tcp:96121:8"/> to the great day, but even in this life diviſion of Saints threatens deſtruction; <hi>for if ye bite one another, ye ſhall be conſumed one of another.</hi> When theſe leſſer differences make a diviſion, the great Malignant puts in his wedge, and the leſſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r follow and ſerve him in this worke, and both teare Saints aſunder to de<g ref="char:EOLhyphen"/>ſtroy them by dividing; yea to deſtroy one Saint by another. A ſad thing when Saints ſhall do the De<g ref="char:EOLhyphen"/>vils works, dividing and deſtroying. But farre from Saints be the works and paths of the deſtroyer. But let them much rather do the works of God, even of that God who is Love and his work is Salvation. Let them ſtrive to preſerve each other by provoking one another to love and good workes, and by being knit and linkt together ſo faſt in love, that none of theſe infernall Wedges and Engines may teare shem aſun<g ref="char:EOLhyphen"/>der. Let them walke in thoſe ſaving truths to which they have attained with one minde, and one love; and if any thing beſides be not yet attained to waite with mutuall patience and forbearance untill the ſame be revealed</p>
+            <p>I know there are errours to whoſe owners and maintainers the A poſtle allowes not, God ſpeed. But I ſpeake not of thoſe, but of ſuch differences and di<g ref="char:EOLhyphen"/>viſions as are of a lower nature. And is not the inter<g ref="char:EOLhyphen"/>nall unity of the Spirit a greater band of love and peace th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n difference in ſmall ma<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ters or externals, be of hatred, diviſion, and mutuall deſtruction? Is not ſuch a deſtruction like unto this, that when two owners of a field of Corne cannot agree about the faſhion of the hedge, upon this diſagreement they will both agree to ſet the Corne on fire and deſtroy it? What were this but to deſtroy the Corn for that very thing whoſe maine, if not only uſe, is to preſerve it? Let Saints heare the voice and judgement of <hi>Moſes</hi> (a great Saint, and who in this voyce ſpake as one that was deſigned to be the great Judge of
+<hi>Iſrael)</hi> 
+               <pb n="13" facs="tcp:96121:8"/> 
+               <hi>Why ſttive ye, ſince ye are brethren?</hi> Why teare ye the Bo<g ref="char:EOLhyphen"/>dy of Chriſt into pieces for the cloths of the body? <hi>Is not the body better then raiment?</hi> Chriſt hath ſhed his blood for his Saints, and his Spirit into the Saints to purchaſe love, peace, and unity for them; doe not rob him of his purchaſe by diviſions, and tearing his body aſunder, leaſt he againe cry out from Heaven, <hi>Why doe you perſecute me? and why doe you teare me in pe ces in my members?</hi> Let us not prefer low quarrels and opini<g ref="char:EOLhyphen"/>ons before Chriſt dwelling and living in his mem<g ref="char:EOLhyphen"/>bers; what is this but to make Idols of them, and to make our ſelves like thoſe of <hi>Canaan, who ſacrificed their S<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns and Daughters to their Idols;</hi> and what followes? <hi>Thus was the Land defiled with innocent blood.</hi>
+            </p>
+            <p>But let every men ſadly and ſincerely examine the matter, both as a Chriſtian, and as a wiſe man: as a Chriſtian, let him aske his Soul whether it can be the Spirit that hates and endeavours to deſtroy a man that hath the Spitit, certainly it is imposſible, that the Spirit ſhould hate the Spirit, or him that hath it. <hi>For the fruit of the Spirit is love, even love to all the brethren that are borne of the ſame Spirit.</hi> And if it be a work of the fleſh, what hath a ſpirituall man to doe with the fleſh but to kill it? and not for the fleſh to kill thoſe that have the Spirit. Secondly as a wiſe man, who would by ſuch deviſion and oppoſition of Brethren make a gap, and open a gate for the common enemy to come in and deſtroy both? wherefore (to con<g ref="char:EOLhyphen"/>clude) let not leſſer faults or exceptions which may ſtand with brother-hood, diſſolve brother hood; much leſſe ſet Brethren to deſtroy one another. And if it were lawfull (as it is not in <hi>Abrahams</hi> judgement, who was the Father of the faithfull and told his Nephew <hi>Lot, Let us not ſtrive, becauſe we are brethren)</hi> yet firſt of all, meanes ſhould be uſed for reconciliation and ſatisfaction; thus did the whole Congregation of <hi>Iſrael</hi> by Meſſengers ſent to the Tribes of <hi>Reuben,</hi> 
+               <pb n="14" facs="tcp:96121:9"/>
+               <hi>Gad,</hi> and halfe tribe <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <hi>Manaſſeth,</hi> when they were ſuſpected for ſetting up a new and forbidden kinde of Worſhip. Laſtly, farre be it from Brethren upon doubtfull and diſputable differences, yea doubtfull breaches of Covenant, to breake that plaine and down-right part of the Covenant; <hi>That each one of us according to our place and intereſt, ſhall endeavour that theſe Kingdomes may rentaine conjoyned in a firm peace and union to all poſterity</hi> To breake a certaine and cleare part of the Covenant for uncertainties, is a moſt certaine ſinne: Surely the breach of this peace and union is in it ſelfe a great Judgement upon the Kingdomes<g ref="char:punc">▪</g> But how great a Judgement ſhall he deſerve, that by a breach of Oath is a cauſe of this Judgement?
+<hi>Come not into their ſecret, O my Soule, for curſed is their anger, and their wrath is cruell; divide them in Jacob, and ſcatter them in Iſrael; for they would divide Jacob, and by dividing ſcat<g ref="char:EOLhyphen"/>ter and deſtroy Iſrael,</hi> even our Jeruſalem, compacted and knit together in both Nations by Saintſhip and Covenant But <hi>pray we for the union and peace of Jeruſalem;</hi> let us ſay (and endeavour what we ſay) <hi>peace be within thy walls, and proſperity in thy palaces.</hi> For my Brethren and companions ſake I will now ſay, <hi>Peace be within thee:</hi> and let all the Brethren and Companions agree in this, and ſay, Amen, Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
